@@ -1,4 +1,5 @@
 from prompt_toolkit import prompt
+import readline
 
 class Editor:
     def __init__(self):
